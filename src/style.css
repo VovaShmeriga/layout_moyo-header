@@ -8,10 +8,6 @@ body {
   font-weight: 500;
 }
 
-.li {
-  text-transform: uppercase;
-}
-
 .header {
   display: flex;
   align-items: center;
